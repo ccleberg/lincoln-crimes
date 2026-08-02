@@ -1,0 +1,22 @@
+┌──────────────────────────────────────────────────────────────┐
+│  L I N C O L N   I N C I D E N T S         [ KRZ ]   krz.sh  │
+└──────────────────────────────────────────────────────────────┘
+
+WHAT
+  dashboard of crime data for lincoln, nebraska, january 1990 to
+  today. plotly.js chart.
+
+DATA
+  crime data from the lincoln police website, in data/ as excel.
+  population estimates for per-capita numbers from the lincoln city
+  website, in data/ as pdf.
+
+  police:     https://www.lincoln.ne.gov/city/police/activityindex.htm
+  population:  https://lincoln.ne.gov/city/plan/reports/reports/popest.pdf
+
+PREVIEW
+  preview.png
+
+┌──────────────────────────────────────────────────────────────┐
+│  krz.sh                                                      │
+└──────────────────────────────────────────────────────────────┘
